@@ -85,4 +85,4 @@ The Multithreaded Chat Application typically follows a **Client-Server model**:
 
   ![Image](https://github.com/user-attachments/assets/806feda0-703f-4f82-8e01-7aad732c3444)
   
-
+![Image](https://github.com/user-attachments/assets/fb6a78b0-651a-494a-a2c6-cdf3e421d42a)
