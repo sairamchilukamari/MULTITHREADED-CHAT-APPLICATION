@@ -83,5 +83,6 @@ The Multithreaded Chat Application typically follows a **Client-Server model**:
 * **Gaming**: Used in multiplayer games for real-time chat among players.
 * **Remote Support**: Allows support teams to interact with clients through direct messaging.
 
+  ![Image](https://github.com/user-attachments/assets/806feda0-703f-4f82-8e01-7aad732c3444)
   
 
