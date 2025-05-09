@@ -10,12 +10,6 @@ BATCH DURATION: April15th, 2025 to May 15th, 2025.
 
 MENTOR NAME: NEELA SANTHOSH KUMAR
 
-Here is a 600-word description of a **Multithreaded Chat Application** project, including what 
-
-technologies are typically used to develop it and an overview of how it works:
-
-
-## **Multithreaded Chat Application – Project Description**
 
 A **Multithreaded Chat Application** is a software system that allows multiple users to communicate with each other in real time over a network. This project demonstrates key concepts in networking, multithreading, and client-server architecture. It is commonly developed using programming languages and libraries that support concurrency and network communication, such as **Java**, **Python**, or **C#**.
 
@@ -45,7 +39,6 @@ A **Multithreaded Chat Application** is a software system that allows multiple u
 
    * For persistent chat history, **MySQL**, **SQLite**, or **MongoDB** can be integrated.
 
----
 
 ### **System Architecture**
 
@@ -64,7 +57,6 @@ The Multithreaded Chat Application typically follows a **Client-Server model**:
   * It runs two threads: one for sending messages to the server and one for receiving messages from the server.
   * This separation ensures that the client can send and receive messages independently without blocking.
 
----
 
 ### **Features of the Application**
 
@@ -74,7 +66,6 @@ The Multithreaded Chat Application typically follows a **Client-Server model**:
 * **User Identification**: Clients can be identified by usernames or IDs.
 * **Error Handling**: The application gracefully handles disconnections, failed transmissions, and unexpected errors.
 
----
 
 ### **Use Cases and Applications**
 
